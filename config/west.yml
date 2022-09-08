@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: jgliao248
-      url-base: https://github.com/jgliao248/zmk-keyhive-sofle-rgb
+      url-base: https://github.com/jgliao248
   projects:
     - name: zmk
       remote: jgliao248
