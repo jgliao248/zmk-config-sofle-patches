@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/jgliao248
   projects:
     - name: zmk
-      remote: infused-kim
+      remote: jgliao248
       revision: sofle
       import: app/west.yml
   self:
